@@ -1,0 +1,3 @@
+/Users/eddiem/projects/dlsh/build/CMakeFiles/dlsh.dir
+/Users/eddiem/projects/dlsh/build/CMakeFiles/edit_cache.dir
+/Users/eddiem/projects/dlsh/build/CMakeFiles/rebuild_cache.dir

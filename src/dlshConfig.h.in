@@ -1,0 +1,3 @@
+#define dlsh_VERSION_MAJOR @dlsh_VERSION_MAJOR@
+#define dlsh_VERSION_MINOR @dlsh_VERSION_MINOR@
+
